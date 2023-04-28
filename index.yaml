@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  helm-redoc:
+  - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2023-04-28T12:49:22.018182378Z"
+    description: ReDoc is an open-source software framework backed by a large ecosystem
+      of tools that helps developers design, build, document, and consume RESTful
+      Web services.
+    digest: 4c7ae09b28cdc35e047fa14c5a7e32e8c741d4392590e2b8c0ded51bf3c5ad17
+    home: https://redocly.github.io/redoc/
+    keywords:
+    - redoc
+    - ui
+    - RESTful
+    maintainers:
+    - name: SergeSpinoza
+    name: helm-redoc
+    urls:
+    - https://github.com/Nerevahr/helm-redoc/releases/download/helm-redoc-0.1.0/helm-redoc-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-28T12:49:22.018187078Z"
